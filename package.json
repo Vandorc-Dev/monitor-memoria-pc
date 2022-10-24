@@ -1,0 +1,11 @@
+{
+  "name": "memoria",
+  "version": "1.0.0",
+  "description": "Medidor de memoria ram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vandorc-dev",
+  "license": "ISC"
+}
